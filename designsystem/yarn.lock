@@ -3381,7 +3381,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/manager-api@npm:7.0.10":
+"@storybook/manager-api@npm:7.0.10, @storybook/manager-api@npm:^7.0.10":
   version: 7.0.10
   resolution: "@storybook/manager-api@npm:7.0.10"
   dependencies:
@@ -3659,7 +3659,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/theming@npm:7.0.10":
+"@storybook/theming@npm:7.0.10, @storybook/theming@npm:^7.0.10":
   version: 7.0.10
   resolution: "@storybook/theming@npm:7.0.10"
   dependencies:
@@ -6923,10 +6923,12 @@ __metadata:
     "@storybook/addon-interactions": ^7.0.10
     "@storybook/addon-links": ^7.0.10
     "@storybook/blocks": ^7.0.10
+    "@storybook/manager-api": ^7.0.10
     "@storybook/preset-create-react-app": ^7.0.10
     "@storybook/react": ^7.0.10
     "@storybook/react-webpack5": ^7.0.10
     "@storybook/testing-library": ^0.0.14-next.2
+    "@storybook/theming": ^7.0.10
     "@testing-library/jest-dom": ^5.16.5
     "@testing-library/react": ^13.4.0
     "@testing-library/user-event": ^13.5.0
