@@ -50,6 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:9d07d082c6655b6b30779285d0617248836ffda5aca55cbc1b1a188d815df5093196bc584a9838d0aa8c6b688b6acfa37a81d923f50cf26a73dea0d9cd19b161#npm:18.2.0"],\
             ["react-scripts", "virtual:9d07d082c6655b6b30779285d0617248836ffda5aca55cbc1b1a188d815df5093196bc584a9838d0aa8c6b688b6acfa37a81d923f50cf26a73dea0d9cd19b161#npm:5.0.1"],\
+            ["resolve", "patch:resolve@npm%3A1.22.3#~builtin<compat/resolve>::version=1.22.3&hash=c3c19d"],\
             ["storybook", "npm:7.0.10"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"],\
             ["web-vitals", "npm:2.1.4"],\
@@ -10232,6 +10233,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:9d07d082c6655b6b30779285d0617248836ffda5aca55cbc1b1a188d815df5093196bc584a9838d0aa8c6b688b6acfa37a81d923f50cf26a73dea0d9cd19b161#npm:18.2.0"],\
             ["react-scripts", "virtual:9d07d082c6655b6b30779285d0617248836ffda5aca55cbc1b1a188d815df5093196bc584a9838d0aa8c6b688b6acfa37a81d923f50cf26a73dea0d9cd19b161#npm:5.0.1"],\
+            ["resolve", "patch:resolve@npm%3A1.22.3#~builtin<compat/resolve>::version=1.22.3&hash=c3c19d"],\
             ["storybook", "npm:7.0.10"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"],\
             ["web-vitals", "npm:2.1.4"],\
