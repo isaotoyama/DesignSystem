@@ -10664,10 +10664,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["enhanced-resolve", [\
-        ["npm:5.14.0", {\
-          "packageLocation": "./.yarn/cache/enhanced-resolve-npm-5.14.0-a8aca36878-fff1aaebbf.zip/node_modules/enhanced-resolve/",\
+        ["npm:5.10.0", {\
+          "packageLocation": "./.yarn/cache/enhanced-resolve-npm-5.10.0-7941304306-0bb9830704.zip/node_modules/enhanced-resolve/",\
           "packageDependencies": [\
-            ["enhanced-resolve", "npm:5.14.0"],\
+            ["enhanced-resolve", "npm:5.10.0"],\
             ["graceful-fs", "npm:4.2.11"],\
             ["tapable", "npm:2.2.1"]\
           ],\
@@ -21372,7 +21372,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["acorn-import-assertions", "virtual:6110011d59746949c66a47042d816cf2141f954f3f04b373eb99f01a454c63ff23c09e79dea34293eedfec2b7a7b591b181471f9d44d89d032cdab4050b612bf#npm:1.8.0"],\
             ["browserslist", "npm:4.21.5"],\
             ["chrome-trace-event", "npm:1.0.3"],\
-            ["enhanced-resolve", "npm:5.14.0"],\
+            ["enhanced-resolve", "npm:5.10.0"],\
             ["es-module-lexer", "npm:1.2.1"],\
             ["eslint-scope", "npm:5.1.1"],\
             ["events", "npm:3.3.0"],\
